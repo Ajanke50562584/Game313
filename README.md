@@ -4,5 +4,8 @@ A as in Ajank worked on this specific version so maybe stick to that naming conv
 I love you <3
 
 
-I Am going the crazy
-This is whild
+I am proud of our progress
+You are doing so good
+I Love You
+I Miss You
+~Dan
