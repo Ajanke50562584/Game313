@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/Images/Background">
-        <file>Space_BG_1.png</file>
-    </qresource>
-    <qresource prefix="/Images/Charecters">
-        <file>Awake_Laying_Orange.png</file>
-    </qresource>
-</RCC>
