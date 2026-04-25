@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images/Background">
+        <file>Graphic Resources/Static Graphic Resources/Backgrounds/Space_BG_1.png</file>
+        <file>Graphic Resources/Static Graphic Resources/Backgrounds/Space_BG_2.png</file>
+        <file>Graphic Resources/Static Graphic Resources/Backgrounds/Space_BG_3.png</file>
+        <file>Graphic Resources/Static Graphic Resources/Backgrounds/Space_BG_4.png</file>
+        <file>Graphic Resources/Static Graphic Resources/Backgrounds/Space_BG_5.png</file>
+    </qresource>
+    <qresource prefix="/Images/Characters">
+        <file>Graphic Resources/Animated Graphic Resources/Spritesheets/Awake_Laying_Orange.png</file>
+        <file>Graphic Resources/Animated Graphic Resources/Spritesheets/Sitting_Black.png</file>
+        <file>Graphic Resources/Animated Graphic Resources/Spritesheets/Sitting_Black1.png</file>
+    </qresource>
+</RCC>
