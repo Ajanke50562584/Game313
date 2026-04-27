@@ -9,3 +9,8 @@ You are doing so good
 I Love You
 I Miss You
 ~Dan
+
+I love you 
+Thank you for sticking it out with me 
+I'm really glad i get to work with you
+~ ⋆⁺₊⋆ ☾ ⋆⁺₊⋆
