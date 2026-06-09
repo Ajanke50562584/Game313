@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Images/Background">
+        <file>Space_BG_1.png</file>
+        <file>Space_BG_2.png</file>
+        <file>Space_BG_3.png</file>
+        <file>Space_BG_4.png</file>
+        <file>Space_BG_5.png</file>
+        <file>Space_BG_6.png</file>
+        <file>Space_BG_7.png</file>
+    </qresource>
+    <qresource prefix="/Images/Characters">
+        <file>Awake_Laying_Orange.png</file>
+        <file>Sitting_Black.png</file>
+        <file>Standing_Wagging_Gray.png</file>
+        <file>Walking_Gray.png</file>
+    </qresource>
+</RCC>
