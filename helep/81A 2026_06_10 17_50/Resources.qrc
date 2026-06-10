@@ -1,0 +1,107 @@
+<RCC>
+    <qresource prefix="/Images/Background">
+        <file>Space_BG_1.png</file>
+        <file>Space_BG_2.png</file>
+        <file>Space_BG_3.png</file>
+        <file>Space_BG_4.png</file>
+        <file>Space_BG_5.png</file>
+        <file>Space_BG_6.png</file>
+        <file>Space_BG_7.png</file>
+        <file>Space_BG_8.png</file>
+        <file>Space_BG_10.png</file>
+        <file>BG_1.png</file>
+        <file>BG_2.png</file>
+        <file>BG_3.png</file>
+        <file>BG_4.png</file>
+        <file>BG_5.png</file>
+        <file>BG_6.png</file>
+        <file>BG_7.png</file>
+        <file>BG_8.png</file>
+        <file>BG_9.png</file>
+        <file>BG_10.png</file>
+        <file>BG_11.png</file>
+    </qresource>
+    <qresource prefix="/Images/Characters">
+        <file>Awake_Laying_Orange.png</file>
+        <file>Sitting_Black.png</file>
+        <file>Standing_Wagging_Gray.png</file>
+        <file>Walking_Gray.png</file>
+        <file>Walking_Left_Gray.png</file>
+        <file>Idle_Gray.png</file>
+        <file>Jumping_Gray.png</file>
+        <file>Crouching_Gray.png</file>
+        <file>Jumping_Left_Gray.png</file>
+        <file>Crouching_Left_Gray.png</file>
+        <file>Climbing_Gray.png</file>
+        <file>Attack_Gray.png</file>
+        <file>Attack_Left_Gray.png</file>
+    </qresource>
+    <qresource prefix="/Images/Enemies">
+        <file>Big_Hit_Death.png</file>
+        <file>Big_Hit_Death_L.png</file>
+        <file>Big_Hit.png</file>
+        <file>Big_Hit_L.png</file>
+        <file>Big_Attack2.png</file>
+        <file>Big_Attack2_L.png</file>
+        <file>Big_Attack1.png</file>
+        <file>Big_Attack1_L.png</file>
+        <file>Big_Idle.png</file>
+        <file>Big_Idle_L.png</file>
+        <file>Bat_Death.png</file>
+        <file>Bat_Idle-Fly.png</file>
+        <file>Bat_Fly.png</file>
+        <file>Bat_Attack.png</file>
+        <file>EyeBall_Death.png</file>
+        <file>EyeBall_Death_L.png</file>
+        <file>EyeBall_Attack.png</file>
+        <file>EyeBall_Attack_L.png</file>
+        <file>EyeBall_Idle.png</file>
+        <file>EyeBall_Idle_L.png</file>
+        <file>EyeBall_Walking.png</file>
+        <file>EyeBall_Walking_L.png</file>
+    </qresource>
+    <qresource prefix="/Images/Tiles">
+        <file>Plat_Tile.png</file>
+        <file>Tile_Corner_TL.png</file>
+        <file>Tile_Edge_T.png</file>
+        <file>Tile_Edge_B.png</file>
+        <file>Tile_Edge_R.png</file>
+        <file>Tile_Edge_L.png</file>
+        <file>Tile_Edge_MH.png</file>
+        <file>Tile_Half_B.png</file>
+        <file>Tile_Half_Drop.png</file>
+        <file>Tile_Half_Glow.png</file>
+        <file>Tile_Half_T.png</file>
+    </qresource>
+    <qresource prefix="/Images/Levers">
+        <file>Lever_L.png</file>
+        <file>Lever_R.png</file>
+    </qresource>
+    <qresource prefix="/Map_Easy_Txt">
+        <file>Easy_01_IntroEnemyStep.txt</file>
+        <file>Easy_02_CrouchEnemy.txt</file>
+        <file>Easy_03_ClimbEnemy.txt</file>
+        <file>Easy_04_SafeHazardEnemy.txt</file>
+        <file>Easy_05_BackstepEnemy.txt</file>
+    </qresource>
+    <qresource prefix="/Map_Medium_Txt">
+        <file>Medium_05_EnemyGapRun.txt</file>
+        <file>Medium_04_BacktrackColumnEnemy.txt</file>
+        <file>Medium_03_CrouchClimbEnemy.txt</file>
+        <file>Medium_02_HazardEnemyClimb.txt</file>
+        <file>Medium_01_EnemySwitchback.txt</file>
+    </qresource>
+    <qresource prefix="/Map_Hard_Txt">
+        <file>Hard_04_HighRoadEnemy.txt</file>
+        <file>Hard_03_ColumnPressureEnemy.txt</file>
+        <file>Hard_02_DownUpEnemyTrap.txt</file>
+        <file>Hard_01_BacktrackTowerEnemy.txt</file>
+        <file>Hard_05_FinalLoopEnemy.txt</file>
+    </qresource>
+    <qresource prefix="/Spawn_Tile">
+        <file>Spawn_01.txt</file>
+    </qresource>
+    <qresource prefix="/Finish_Tile">
+        <file>Finish_01.txt</file>
+    </qresource>
+</RCC>
